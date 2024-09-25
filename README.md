@@ -38,9 +38,7 @@ To set up and run ScrapeAI on your local machine:
    ```
 
 ## 🖼️ Screenshot:
-<p align="center">
-  ![ssui](Screenshot/ss1.png)
-</p>
+![Flask UI](Screenshot/ss1.png)
 
 ## 🧠 AI Model:
 ScrapeAI uses Ollama's powerful LLM to analyze and interpret web content, delivering high-quality, context-driven answers to your queries. This provides a seamless integration of scraping and content analysis in one package.
