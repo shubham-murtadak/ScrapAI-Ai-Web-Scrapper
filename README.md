@@ -39,7 +39,7 @@ To set up and run ScrapeAI on your local machine:
 
 ## 🖼️ Screenshot:
 <p align="center">
-  <img src="https://via.placeholder.com/600x400.png" alt="ScrapeAI Screenshot" />
+  ![ssui](Screenshot/ss1.png)
 </p>
 
 ## 🧠 AI Model:
