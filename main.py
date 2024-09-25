@@ -2,7 +2,7 @@ import streamlit as st
 from Source.scrap import (scrape_website,extract_body_content,clean_body_content,split_dom_content)
 from Source.ollama import parse_with_ollama
 # Streamlit UI
-st.title("Ai Web Scrapper !")
+st.title("🚀 ScrapAI ~Ai Web Scrapper 🚀")
 
 url=st.text_input("Enter a website url :")
 
